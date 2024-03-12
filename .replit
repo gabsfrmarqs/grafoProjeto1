@@ -1,5 +1,5 @@
 compile = "gcc main.c -o main"
-run = "./mainc"
+run = "./main"
 hidden = ["main", "main-debug", "**/*.o", "**/*.d", ".ccls-cache", "Makefile"]
 
 [nix]
